@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> Ayush Srivastavatitle>
+<title> Ayush Srivastava<title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
